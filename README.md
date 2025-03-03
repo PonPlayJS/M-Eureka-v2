@@ -67,31 +67,6 @@ python view.py
 
 ## Estructura del Proyecto
 
-```plaintext
-M-Eureka/
-├── __pycache__/
-│   ├── policy_filter.cpython-310.pyc
-│   ├── policy_filter.cpython-312.pyc
-│   ├── policy_generator.cpython-310.pyc
-│   ├── policy_generator.cpython-312.pyc
-├── app.py
-├── policy_filter.py
-├── policy_generator.py
-Codigo/
-├── __pycache__/
-│   ├── code_generator.cpython-310.pyc
-│   ├── code_generator.cpython-312.pyc
-├── code_generator.py
-├── custom_reward.py
-├── int_gym.py
-├── orden.sh
-├── policy_filter.py
-├── policy_generator.py
-├── README.md
-├── review_reward.py
-├── training.py
-├── view.py
-```
 
 ## Capturas de Pantalla
 
